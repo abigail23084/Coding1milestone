@@ -17,6 +17,8 @@ h1 {
 div.header {
     color:red;
     font-family:Fantasy;
-    font-size:40px;
-
+    font-size:40px; 
+}
+div.header:hover {
+    color:skyblue
 }
